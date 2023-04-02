@@ -1,0 +1,80 @@
+* {
+    font-family: sans-serif;
+  }
+.header{
+    background-image: url(../images/banner/banner2.png);
+    height: 550px;
+    padding-left: 850px;
+    padding-top: 216px;
+}
+.btn-primary{
+    background-color: orange;
+}
+.section-2{
+    display: flex;
+}
+
+.sub-section{
+    margin-top: 300px;
+   
+}
+.list{list-style:none;}
+.list-item:before {
+    content: '✓';
+    color: green;
+  }
+.header-2{
+    text-align: center;
+}
+.icon-section{
+    display:flex ;
+    justify-content: center;
+    text-align: center; 
+}
+.bg-image{
+    background-image: url(../images/watch.png);
+    width: 80%;
+    height: 200px;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    margin-left:150px;
+    
+}
+.watch{
+    padding-top: 50px;
+    padding-left: 60px;
+}
+.button-2{
+    height: 40px;
+    width: 120px;
+    background-color: white;
+    border-radius: 5px;
+    border: solid black 1.6px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+}
+
+
+.footer-icon{
+    display: flex;
+}
+.section-last{
+    display: flex;
+  
+}
+.email{
+    border-radius: 2px;
+    height: 30px;
+    width: 250px;
+}  
+.section-end{
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-bottom: 70px;
+}
+.datttt{
+    margin-left: 350px;
+    margin-top: 100px;
+}
+
+
