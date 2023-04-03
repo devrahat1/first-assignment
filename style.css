@@ -3,9 +3,8 @@
   }
 .header{
     background-image: url(../images/banner/banner2.png);
-    height: 550px;
-    padding-left: 850px;
-    padding-top: 216px;
+    height: 800px;
+  
 }
 .btn-primary{
     background-color: rgb(95, 181, 10);
@@ -15,9 +14,14 @@
     border-radius: 6px;
 }
 .section-2{
+    text-align: justify;
+    margin-top: 100px;
+    margin-left: 150px;
     display: flex;
 }
-
+.section-head{
+    font-size: 30px;
+}
 .sub-section{
     margin-top: 300px;
    
@@ -26,7 +30,11 @@
 .list-item:before {
     content: '✓';
     color: green;
+   
   }
+.sub-section-pro{
+    margin-left: 45px;
+}
 .header-2{
     text-align: center;
 }
@@ -124,5 +132,29 @@
     font-size: large;
     color: rgb(0, 0, 0);
 }
+.secondary-head{
+    padding-left: 850px;
+    padding-top:90px;
+    font-size: 20px;
+}
 
-
+.nav-bar{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+.ultra-head{
+    display: flex;
+  
+}
+.main-head{
+    margin-top: 40px;
+   margin-left: 180px;
+    font-size: 35px;
+}
+.navigation{
+    margin-top: 25px;
+    margin-left: 500px;
+    font-size: 20px;
+    color:crimson;
+}
