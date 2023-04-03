@@ -158,3 +158,15 @@
     font-size: 20px;
     color:crimson;
 }
+.footer-style{
+    background-color: black;
+    margin-top: 100px;
+    width: 100%;
+  
+}
+.footer-icon{
+   gap: 20px;
+}
+.section-last{
+    color: #FFFFFF;
+}
